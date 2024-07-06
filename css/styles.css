@@ -1,0 +1,25 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgba(230, 205, 217, 0.76);
+}
+
+h1{
+    color: rgba(51, 5, 43, 0.89);
+}
+.miparrafo{
+    color: rgb(0, 15, 15);
+    font-size: 18px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #f177f5;
+    color: darkslateblue;
+    /*border: none;*/
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
